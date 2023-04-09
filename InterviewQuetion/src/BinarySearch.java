@@ -1,6 +1,6 @@
 
 public class BinarySearch {
-
+//Binary search 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int arr[]= {20,22,55,66,78,88};
